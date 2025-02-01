@@ -13,7 +13,7 @@
 
 | 略語    | English                               | 日本語                 |
 | ----- | ------------------------------------- | ------------------- |
-| DBMS  | Database Management System            | データベース管理システム        |
+| DBMS  |                                       | データベース管理システム        |
 | RDBMS | Relational Database Management System | リレーショナルデータベース管理システム |
 | SQL   | Structured Query Language             | -                   |
 | NoSQL | Not Only SQL                          | -                   |
@@ -26,12 +26,6 @@
 **データ（Data）** はコンピューターの処理の対象となる事実。状態・条件などを表す数値・文字・記号。
 
 **情報（Information）** はある特定の目的について，適切な判断を下したり，行動の意思決定をするために役立つ資料や知識。
-
-{% hint style="info" %}
-
-{% endhint %}
-
-
 
 ### 例１
 
@@ -65,7 +59,7 @@
 
 * 階層データモデル
 * ネットワークデータモデル
-* **リレーショナルデータモデル**
+* リレーショナルデータモデル
 * オブジェクト指向データモデル
 * XMLデータモデル
 
@@ -83,7 +77,7 @@
 
 **学生** テーブル
 
-<table data-full-width="true"><thead><tr><th>学籍番号</th><th>氏名</th><th>学科</th></tr></thead><tbody><tr><td>202501</td><td>佐藤桃子</td><td>情報工学科</td></tr><tr><td>202502</td><td>鈴木一郎</td><td>機械工学科</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>学籍番号</th><th>氏名</th><th>学科</th></tr></thead><tbody><tr><td>202501</td><td>佐藤桃子</td><td>情報工学科</td></tr><tr><td>202502</td><td>鈴木一郎</td><td>機械工学科</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></tbody></table>
 
 **成績** テーブル
 
@@ -156,7 +150,6 @@
 * Python
 * Java
 * C++
-* ... :::
 
 **NoSQL（Not Only SQL）** はRDBMS以外のデータベースを指す用語。非リレーショナルデータベース。
 
