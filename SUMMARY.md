@@ -18,12 +18,12 @@
 
 ***
 
-* [データベースとは](dtabsutoha.md)
-* [構造記述](gou-zao-ji-shu.md)
-* [意味記述](yi-wei-ji-shu.md)
-* [操作記述](cao-zuo-ji-shu.md)
-* [データ定義言語](dta.md)
-* [集合](ji-he.md)
-* [環境構築](huan-jing-gou-zhu/README.md)
-  * [MySQLのインストール](huan-jing-gou-zhu/mysqlnoinsutru.md)
-  * [MySQL Shellのインストール](huan-jing-gou-zhu/mysql-shellnoinsutru.md)
+* [データベースとは](introduction.md)
+* [構造記述](structure.md)
+* [意味記述](semantics.md)
+* [操作記述](manipulation.md)
+* [データ定義言語](ddl.md)
+* [集合](set.md)
+* [環境構築](env/README.md)
+  * [MySQLのインストール](env/mysql.md)
+  * [MySQL Shellのインストール](env/shell.md)
